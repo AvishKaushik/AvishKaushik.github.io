@@ -20,8 +20,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/AvishKaushik/masterPortfolio",
+    "https://drive.google.com/file/d/1bcv1TppiyUuuLo6pkE2bNpjqgpbSbMTK/view?usp=sharing",
+  portfolio_repository:
+    "https://github.com/AvishKaushik/AvishKaushik.github.io",
   githubProfile: "https://github.com/AvishKaushik",
 };
 
@@ -586,7 +587,7 @@ const contactPageData = {
     subtitle:
       "202, Shiv Puram, Himmatpur Talla, Haldwani, Uttarakhand - 263139",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/zJKheHwLMqVrk5mH8",
   },
   phoneSection: {
     title: "Phone Number",
