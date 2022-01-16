@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.5c3c24ef.chunk.css",
-    "main.js": "/static/js/main.4c56a1ed.chunk.js",
-    "main.js.map": "/static/js/main.4c56a1ed.chunk.js.map",
+    "main.js": "/static/js/main.68779239.chunk.js",
+    "main.js.map": "/static/js/main.68779239.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.e4c624e9.chunk.js": "/static/js/2.e4c624e9.chunk.js",
-    "static/js/2.e4c624e9.chunk.js.map": "/static/js/2.e4c624e9.chunk.js.map",
+    "static/js/2.c675ef22.chunk.js": "/static/js/2.c675ef22.chunk.js",
+    "static/js/2.c675ef22.chunk.js.map": "/static/js/2.c675ef22.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5dface32f5e57dcf3d14e823d7c5e9da.js": "/precache-manifest.5dface32f5e57dcf3d14e823d7c5e9da.js",
+    "precache-manifest.a34171d6adbb88fc55645b5b027d8ce1.js": "/precache-manifest.a34171d6adbb88fc55645b5b027d8ce1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5c3c24ef.chunk.css.map": "/static/css/main.5c3c24ef.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/IIT.png": "/static/media/IIT.09f8f4b5.png",
+    "static/media/JohnHopkinsUniversity.svg": "/static/media/JohnHopkinsUniversity.372b7d3d.svg",
+    "static/media/SocieteGenerale.png": "/static/media/SocieteGenerale.1dc14c57.png",
+    "static/media/UCSanDiego.png": "/static/media/UCSanDiego.f2fb2dbe.png",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -19,6 +23,7 @@
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
+    "static/media/contactMe.jpg": "/static/media/contactMe.6ffd1038.jpg",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
@@ -51,8 +56,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.e4c624e9.chunk.js",
+    "static/js/2.c675ef22.chunk.js",
     "static/css/main.5c3c24ef.chunk.css",
-    "static/js/main.4c56a1ed.chunk.js"
+    "static/js/main.68779239.chunk.js"
   ]
 }
