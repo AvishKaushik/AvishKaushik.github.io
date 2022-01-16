@@ -374,7 +374,7 @@ const certifications = {
     {
       title: "Data Structures",
       subtitle: "- UC San Diego",
-      logo_path: "stanford_logo.png",
+      logo_path: "UCSanDiego.png",
       certificate_link:
         "https://coursera.org/share/66c2145b7f5e07beb252df0d7cd4f8a3",
       alt_name: "Data Structure",
@@ -383,49 +383,49 @@ const certifications = {
     {
       title: "Algorithmic Toolbox",
       subtitle: "- UC San Diego",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "UCSanDiego.png",
       alt_name: "Algorithmic Toolbox",
       color_code: "#00000099",
     },
     {
       title: "HTML, CSS and Javascript for Web Developers",
-      subtitle: "- Johns Hopkins",
-      logo_path: "google_logo.png",
+      subtitle: "- Johns Hopkins University",
+      logo_path: "JohnHopkinsUniversity.svg",
       alt_name: "HTML, CSS and Javascript for Web Developers",
       color_code: "#0C9D5899",
     },
     {
       title: "Big Data Foundation",
       subtitle: "- NASSCOM",
-      logo_path: "ibm_logo.png",
+      logo_path: "NASSCOM.png",
       alt_name: "Big Data Foundation",
       color_code: "#1F70C199",
     },
     {
       title: "Problem Solving",
       subtitle: "- HackerRank",
-      logo_path: "microsoft_logo.png",
+      logo_path: "Hackerrank.png",
       alt_name: "Problem Solving",
       color_code: "#D83B0199",
     },
     {
       title: "Python",
       subtitle: "- HackerRank",
-      logo_path: "ibm_logo.png",
+      logo_path: "Hackerrank.png",
       alt_name: "Python",
       color_code: "#1F70C199",
     },
     {
       title: "Java SE 8",
       subtitle: "- Oracle",
-      logo_path: "google_logo.png",
+      logo_path: "Oracle.png",
       alt_name: "Java SE 8",
       color_code: "#0C9D5899",
     },
     {
       title: "Quadcopter Workshop",
       subtitle: "- IIT Bombay",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "IIT.png",
       alt_name: "Quadcopter Workshop",
       color_code: "#00000099",
     },
@@ -447,7 +447,7 @@ const experience = {
           title: "Upcoming Software Engineer",
           company: "Societe Generale",
           company_url: "https://www.societegenerale.asia/en/",
-          logo_path: "legato_logo.png",
+          logo_path: "SocieteGenerale.png",
           duration: "From July 2022",
           location: "Bangalore, Karnataka",
           color: "#0879bf",
@@ -456,7 +456,7 @@ const experience = {
           title: "Software Engineer Intern",
           company: "Societe Generale",
           company_url: "https://www.societegenerale.asia/en/",
-          logo_path: "muffito_logo.png",
+          logo_path: "SocieteGenerale.png",
           duration: "Jan 2022 - Present",
           location: "Bangalore, Karnataka",
           color: "#9b1578",
@@ -577,16 +577,9 @@ const publicationsHeader = {};
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "fullstack.svg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, Android, Cloud, Competitive Programming and Opensource Development.",
-  },
-  blogSection: {
-    // title: "Blogs",
-    // subtitle:
-    //   "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    // link: "https://ashutoshhathidara.wordpress.com",
-    // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
