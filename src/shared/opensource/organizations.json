@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "login": "EduHub-io",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70682182?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Team-Trident",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/95673205?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
