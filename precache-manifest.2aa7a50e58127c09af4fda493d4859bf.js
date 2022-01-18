@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a3683cc8d94d9281ef83805d4b49d48",
+    "revision": "3a5a5147c8497380c12554d3b6c947a6",
     "url": "/index.html"
   },
   {
-    "revision": "32e05b741daca9ea79c0",
-    "url": "/static/css/main.5c3c24ef.chunk.css"
+    "revision": "3e1a92f7f10856bc4625",
+    "url": "/static/css/main.a17992d1.chunk.css"
   },
   {
-    "revision": "d64afd8b8cf8d8af1ad5",
-    "url": "/static/js/2.c675ef22.chunk.js"
+    "revision": "158b077b138062ba54f8",
+    "url": "/static/js/2.0457b631.chunk.js"
   },
   {
-    "revision": "32e05b741daca9ea79c0",
-    "url": "/static/js/main.b401f83e.chunk.js"
+    "revision": "3e1a92f7f10856bc4625",
+    "url": "/static/js/main.7c931c51.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -22,6 +22,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "3fe69404b79013ebc1a29f9fae8e09af",
+    "url": "/static/media/Avishnew.3fe69404.svg"
+  },
+  {
+    "revision": "964a79ef4ca6f62bbbcffcf8919a6071",
+    "url": "/static/media/Framea.964a79ef.svg"
+  },
+  {
+    "revision": "64be88d9ae90035b1e85486323f6a60c",
+    "url": "/static/media/Framek.64be88d9.svg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -60,12 +72,68 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "765b88882726acb1c792f2c9621fb8f4",
+    "url": "/static/media/New.765b8888.svg"
+  },
+  {
     "revision": "1dc14c57fbecb4e941900efdcf2d277f",
     "url": "/static/media/SocieteGenerale.1dc14c57.png"
   },
   {
+    "revision": "8a8555c27cfa6dad7e78bdd78dcfe596",
+    "url": "/static/media/SplashScreenNew.8a8555c2.svg"
+  },
+  {
     "revision": "f2fb2dbed1b6c989f0db32f8e8c1835d",
     "url": "/static/media/UCSanDiego.f2fb2dbe.png"
+  },
+  {
+    "revision": "9e874b14bfcc5e08a70a56fc50ea3c38",
+    "url": "/static/media/Untitled1.9e874b14.svg"
+  },
+  {
+    "revision": "8187ac58e2720843e530e5ba7db9dd61",
+    "url": "/static/media/Untitled10.8187ac58.svg"
+  },
+  {
+    "revision": "2f6a5eaf2f24232c4e7ef4e46bf95dd3",
+    "url": "/static/media/Untitled11.2f6a5eaf.svg"
+  },
+  {
+    "revision": "ba5f28155b961c35ecc2638eb5e2c643",
+    "url": "/static/media/Untitled12.ba5f2815.svg"
+  },
+  {
+    "revision": "4fede482d92063237ab12e7236321175",
+    "url": "/static/media/Untitled2.4fede482.svg"
+  },
+  {
+    "revision": "26fb294ed2f30b48167db887e1f6fa50",
+    "url": "/static/media/Untitled3.26fb294e.svg"
+  },
+  {
+    "revision": "66a7d15f4140951f7e5dd25811528711",
+    "url": "/static/media/Untitled4.66a7d15f.svg"
+  },
+  {
+    "revision": "c54fff9921f6a9bba3dadf454c3badee",
+    "url": "/static/media/Untitled5.c54fff99.svg"
+  },
+  {
+    "revision": "b22302a6bcbc99385cfd8024d53c4c50",
+    "url": "/static/media/Untitled6.b22302a6.svg"
+  },
+  {
+    "revision": "a94a7b173810176e6dd827e380d868d9",
+    "url": "/static/media/Untitled7.a94a7b17.svg"
+  },
+  {
+    "revision": "73a71169b07ac61ee23585cb72ec9270",
+    "url": "/static/media/Untitled8.73a71169.svg"
+  },
+  {
+    "revision": "ea493c223ccd13a189d7e92ef8b0a429",
+    "url": "/static/media/Untitled9.ea493c22.svg"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -268,7 +336,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ui_ux_design.d6363089.svg"
   },
   {
-    "revision": "8f8dac42d4c90323aec7c7d5c3a89016",
-    "url": "/static/media/vit.8f8dac42.png"
+    "revision": "8d5f2e968d3c5f406760bf24d1a6d9ba",
+    "url": "/static/media/vit.8d5f2e96.png"
   }
 ]);
